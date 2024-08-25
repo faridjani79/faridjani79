@@ -4,7 +4,7 @@
 - 📫 How to reach me. Can reach me via my Linkedin profile: https://www.linkedin.com/in/farid-jani/ 
   
 Check out my Projects
-- [Symmetric File Encryption] ([url](https://github.com/faridjani79/cybersecurityprojects/tree/main/Encryption))
+- ([Symmetric File Encryption](https://github.com/faridjani79/cybersecurityprojects/tree/main/Encryption))
 
 <!---
 faridjani79/faridjani79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
